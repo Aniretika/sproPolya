@@ -1,0 +1,5 @@
+﻿  PolyaSpro1.cpp
+c:\users\kate\source\repos\polyaspro1\polyaspro1\polyaspro1.cpp(142): error C2065: IDCANCEL3: необъявленный идентификатор
+c:\users\kate\source\repos\polyaspro1\polyaspro1\polyaspro1.cpp(142): error C2131: выражение не определяется константой
+  c:\users\kate\source\repos\polyaspro1\polyaspro1\polyaspro1.cpp(142): note: обнаружено неконстантное (под)выражение
+c:\users\kate\source\repos\polyaspro1\polyaspro1\polyaspro1.cpp(142): error C2051: значение выражения для варианта выбора не является константой
